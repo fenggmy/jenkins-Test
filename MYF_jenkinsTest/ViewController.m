@@ -19,5 +19,9 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 
+- (int)getNum {
+    return 100;
+}
+
 
 @end
